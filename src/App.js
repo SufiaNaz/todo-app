@@ -115,7 +115,7 @@ function App() {
       Edit
     </button>
   </>
-)}
+)} 
 
             <button onClick={() => handleDeleteTask(index)}
             style={{
@@ -136,4 +136,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; //end
